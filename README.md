@@ -25,7 +25,7 @@ To set up the Food Ordering App project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    https://github.com/sdshaheer/SketchBookProject.git
+    https://github.com/sdshaheer/sketchbook.git
     ```
 
 2. Navigate to the project directory:
